@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/agfe-materials/static/css/main.95f35b07.css",
+    "main.js": "/agfe-materials/static/js/main.6c91f137.js",
+    "static/js/227.c5fd304f.chunk.js": "/agfe-materials/static/js/227.c5fd304f.chunk.js",
+    "static/js/526.117d8600.chunk.js": "/agfe-materials/static/js/526.117d8600.chunk.js",
+    "static/js/232.58cd2900.chunk.js": "/agfe-materials/static/js/232.58cd2900.chunk.js",
+    "static/js/237.26c538b1.chunk.js": "/agfe-materials/static/js/237.26c538b1.chunk.js",
+    "static/js/787.f2252d7e.chunk.js": "/agfe-materials/static/js/787.f2252d7e.chunk.js",
+    "static/media/banner-bg.png": "/agfe-materials/static/media/banner-bg.eceffdca812711c5775b.png",
+    "static/media/color-sharp2.png": "/agfe-materials/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/6.png": "/agfe-materials/static/media/6.bcd7e822c78655b37a41.png",
+    "static/media/5.png": "/agfe-materials/static/media/5.fa306eadc90f173ca299.png",
+    "static/media/3.png": "/agfe-materials/static/media/3.1f64a1e9309aea118606.png",
+    "static/media/1.png": "/agfe-materials/static/media/1.a75424076e3a4f03cab2.png",
+    "static/media/4.png": "/agfe-materials/static/media/4.69c5f2e5cdc1fe822dd6.png",
+    "static/media/2.png": "/agfe-materials/static/media/2.a5d7f67581de14fe97f6.png",
+    "static/media/7.png": "/agfe-materials/static/media/7.d70bfe873eab2f101d06.png",
+    "static/media/CentraNo2-Bold.ttf": "/agfe-materials/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/agfe-materials/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/agfe-materials/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/agfe-materials/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/logo.svg": "/agfe-materials/static/media/logo.4ff8c497867639e0221c13f1f7c367ef.svg",
+    "static/media/nav-icon3.svg": "/agfe-materials/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/agfe-materials/index.html",
+    "static/media/nav-icon1.svg": "/agfe-materials/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/agfe-materials/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.95f35b07.css.map": "/agfe-materials/static/css/main.95f35b07.css.map",
+    "main.6c91f137.js.map": "/agfe-materials/static/js/main.6c91f137.js.map",
+    "227.c5fd304f.chunk.js.map": "/agfe-materials/static/js/227.c5fd304f.chunk.js.map",
+    "526.117d8600.chunk.js.map": "/agfe-materials/static/js/526.117d8600.chunk.js.map",
+    "232.58cd2900.chunk.js.map": "/agfe-materials/static/js/232.58cd2900.chunk.js.map",
+    "237.26c538b1.chunk.js.map": "/agfe-materials/static/js/237.26c538b1.chunk.js.map",
+    "787.f2252d7e.chunk.js.map": "/agfe-materials/static/js/787.f2252d7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f35b07.css",
+    "static/js/main.6c91f137.js"
+  ]
+}
