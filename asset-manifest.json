@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/agfe-materials/static/css/main.95f35b07.css",
-    "main.js": "/agfe-materials/static/js/main.6c91f137.js",
+    "main.js": "/agfe-materials/static/js/main.227bca73.js",
     "static/js/227.c5fd304f.chunk.js": "/agfe-materials/static/js/227.c5fd304f.chunk.js",
     "static/js/526.117d8600.chunk.js": "/agfe-materials/static/js/526.117d8600.chunk.js",
     "static/js/232.58cd2900.chunk.js": "/agfe-materials/static/js/232.58cd2900.chunk.js",
@@ -26,7 +26,7 @@
     "static/media/nav-icon1.svg": "/agfe-materials/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/agfe-materials/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.95f35b07.css.map": "/agfe-materials/static/css/main.95f35b07.css.map",
-    "main.6c91f137.js.map": "/agfe-materials/static/js/main.6c91f137.js.map",
+    "main.227bca73.js.map": "/agfe-materials/static/js/main.227bca73.js.map",
     "227.c5fd304f.chunk.js.map": "/agfe-materials/static/js/227.c5fd304f.chunk.js.map",
     "526.117d8600.chunk.js.map": "/agfe-materials/static/js/526.117d8600.chunk.js.map",
     "232.58cd2900.chunk.js.map": "/agfe-materials/static/js/232.58cd2900.chunk.js.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.95f35b07.css",
-    "static/js/main.6c91f137.js"
+    "static/js/main.227bca73.js"
   ]
 }
